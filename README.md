@@ -1,4 +1,4 @@
-# fintr4ck
+# YAFM : Yet Another Financial Manager
 open source software for tracking finances.
 
 "What gets measured gets accomplished" ~Penna,Dan
