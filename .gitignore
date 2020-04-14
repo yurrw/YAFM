@@ -1,0 +1,12 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.env
+
+webapp/node_modules
+webapp/build
+webapp/npm-debug.log*
